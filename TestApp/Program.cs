@@ -13,6 +13,8 @@ namespace TestApp
 			// do something
 
 			// Another change to commit locally
+
+			// Another change
 		}
 	}
 }
